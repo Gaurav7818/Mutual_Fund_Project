@@ -1,0 +1,14 @@
+DATA QUALITY REPORT
+
+Dataset Name: fund_master.csv
+
+Total Rows: 40
+
+Total Columns: 15
+
+Missing Values: 0
+
+Duplicate Rows: 0
+
+Status:
+Dataset loaded successfully.
